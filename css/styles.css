@@ -1,0 +1,26 @@
+.contenedor{
+    
+   
+   
+    position: absolute;
+    width: 297px;
+    height: 230px;
+    left: 39px;
+    top: 175px;
+}
+.titulo{
+    font-family: 'Griffy', cursive;
+    color:rgb(224, 15, 15);
+
+}
+.descripcion{
+    color:rgb(241, 0, 48)
+    width: 80%;
+}
+.mono{
+  
+width: 297px;
+height: 230px;
+left: 39px;
+top: 175px;
+}
